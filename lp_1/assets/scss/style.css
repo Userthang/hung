@@ -471,7 +471,7 @@ template {
 }
 
 html {
-  font-size: min(10px, 2.42vw);
+  font-size: min(10px, 2.38vw);
   scroll-behavior: smooth;
 }
 
